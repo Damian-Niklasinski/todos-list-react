@@ -9,6 +9,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   background-color: hsl(0, 0%, 91%);
+  word-break: break-word;
 }
 
 .header {
