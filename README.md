@@ -1,6 +1,32 @@
 # To-do List
 
-Descript.
+## Demo
+
+[To-do List](https://damian-niklasinski.github.io/todos-list-react/)
+
+## Description
+
+That To-do List it was created for the YouCode course. Here u can:
+
+- Add some tasks to your list.
+- Select the task has been completed
+- Delete a task from the list
+
+## Technology Used
+
+- React
+- HTML
+- CSS
+- JS
+- JSX
+- ES+6
+- BEM
+
+## How to use?
+
+ 1. Write your to-do in input
+ 2. If you have completed the task, click on the check
+ 3. If you have not completed the task, click on trash
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
